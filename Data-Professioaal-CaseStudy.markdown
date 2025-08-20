@@ -34,17 +34,10 @@ The dashboard visualizes key metrics, distributions, and breakdowns to provide i
 - Data sourced from survey responses (cleaned and transformed as needed).
 
 ## How to Use
-1. Download the `.pbix` file from this repository.
+1. Download the `.pbix` file from this repository. [Link](https://github.com/Richa991/Data-Professional-Survey-PowerBi/blob/main/JobSurvey_CaseStudy.pbix)
 2. Open in Power BI Desktop to interact with the dashboard.
 3. Explore filters for countries, titles, industries, etc.
 
-## Screenshot
-![Dashboard Screenshot](dashboard-screenshot.png)  
-*(Upload the provided screenshot as `dashboard-screenshot.png` in the repository for this to display properly.)*
-
-## Repository Structure
-- `Data_Professional_Survey_Dashboard.pbix`: The Power BI file.
-- `dashboard-screenshot.png`: Screenshot of the dashboard.
-- `README.md`: This file.
+<img width="1438" height="805" alt="image" src="https://github.com/user-attachments/assets/8e4ecfe7-ad7b-4512-b6ee-cc213771c30c" />
 
 For any questions or collaborations, feel free to reach out!
